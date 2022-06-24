@@ -1,0 +1,1 @@
+<?php header("Location: FRONT-END/login.php"); ?>
